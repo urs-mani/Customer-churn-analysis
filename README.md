@@ -273,8 +273,5 @@ Web Development
 
 Mobile Application Development
 
-📌 Resume Project Description
-
-Analyzed and cleaned 5,630 e-commerce customer records using Python, Pandas, Matplotlib, and Seaborn; identified tenure, complaints, and customer activity as key churn factors. Compared Logistic Regression, Decision Tree, and Random Forest models, achieving 98.05% test accuracy and 0.94 churn-class F1, then exported risk tiers for a Power BI dashboard.
 
 ⭐ If you find this project useful, feel free to explore the repository.
